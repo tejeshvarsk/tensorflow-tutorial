@@ -1,0 +1,23 @@
+_∂æm»∆ø<¢Õ?Ë›≤>∏9O>?$¥?[øƒC≥ø€Ë‹?oTø§n@x⁄ñ?ÓŒ˘?P{Ú>vAT?ÖﬁƒæKcF?¯\@u˝ìø
+ï«?ÔöËu6
+
+	model*
+
+
+dense1
+
+dense2*
+
+w
+b*
+
+w
+b*
+D>
+VARIABLE_VALUEw)model/dense1/w/.ATTRIBUTES/VARIABLE_VALUE*
+D>
+VARIABLE_VALUEb)model/dense1/b/.ATTRIBUTES/VARIABLE_VALUE*
+D>
+VARIABLE_VALUEw)model/dense2/w/.ATTRIBUTES/VARIABLE_VALUE*
+D>
+VARIABLE_VALUEb)model/dense2/b/.ATTRIBUTES/VARIABLE_VALUE*
